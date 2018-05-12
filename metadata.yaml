@@ -1,0 +1,32 @@
+_repo: The-Golden-Goose-Book_15661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leonard Leslie
+    - Brooke, Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+description: Illustrated by the author.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: The golden goose -- The story of the three bears -- The story of
+  the three little pigs -- Tom Thumb.
+title: The Golden Goose Book
+url: http://www.gutenberg.org/ebooks/15661
